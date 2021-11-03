@@ -25,4 +25,4 @@ int main()
 	printf("\n\t\t%lf\n", a);
 	system("pause");
 }
-
+//Tupik
